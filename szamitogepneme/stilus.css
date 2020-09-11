@@ -1,0 +1,38 @@
+/* * {
+	border: 1px solid red;
+} */
+
+html{
+	background-color:#fff;
+}
+body {
+	background-image: url('./alap.jpg');
+	width: 90%
+	margin: auto;
+	border: 1px solid transparent;
+}
+div{
+	/* margin: 10px 10px 10px 10px; Felső/jobb/alsó/bal
+	margin: 10px 10px 10px; Felső/jobb-bal/alsó
+	margin: 10px 10px; Felső-Alsó/jobb-bal
+	margin: 10px; Mind a négyet.
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 64px;
+}
+
+hr {
+	/* width: 90%; */
+	height: 10px;
+	background-color: grey;
+	border-radius: 6px;
+}
+
+h1, h3 {
+	text-align:center;
+	color: rgb(80, 80, 80);
+}
+.belso {
+	padding-left
+}
+
